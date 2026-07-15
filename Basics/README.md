@@ -19,7 +19,7 @@ This folder contains my beginner Python programs while revising Python from scra
 | `3_user_input.py` | Taking user input using `input()` |
 | `4_rectangle_area.py` | Calculate the area of a rectangle |
 | `5_arithmetic_operators.py` | Arithmetic operations in Python |
-| `6_circle_area.py` | Calculate the area of a circle |
+| `6_circle_area_circum.py` | Calculate the area and circumference of a circle |
 |  Some practice problems |
 
 ## 🎯 Learning Outcome
